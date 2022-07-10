@@ -1,3 +1,7 @@
+This a web app which currently has 1 feature which strips a string of text of it's punctuation & spacing for ESL learners to piece back together. Intended for use in the classroom.
+
+===== Notes on the template =====
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
